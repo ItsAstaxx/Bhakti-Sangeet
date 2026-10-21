@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-10-20T09:48:21.097Z",
+  "lastUpdated": "2026-10-21T09:49:24.433Z",
   "categories": {
     "Shiv": [
+      {
+        "id": "99fn3ERREnE",
+        "title": "सारा जमाना रो पड़ा ये दर्द भरा शिव भजन सुनकर | Bholenath Bhajan 2026 | शिव भजन | Shiv Song",
+        "channel": "Shiv Kripa Dwar",
+        "publishedAt": "2026-10-20T22:30:19Z"
+      },
+      {
+        "id": "3I8gOuhOcGo",
+        "title": "Shiv Tandav Stotram | शिव ताण्डव स्तोत्रम् | Har har shiv shankar | Jai Jai TV",
+        "channel": "Jai Jai TV",
+        "publishedAt": "2024-08-01T00:30:01Z"
+      },
+      {
+        "id": "VsXoePEjKmM",
+        "title": "Best Sawan Bhajan 2023 | Shiv Bhajan | Bam Bhole Bam Bam | Viruss | Acme Muzic",
+        "channel": "Acme Muzic",
+        "publishedAt": "2023-07-03T11:30:10Z"
+      },
       {
         "id": "tVBV05vHEX0",
         "title": "पकड़ लो हाथ भोलेनाथ नहीं तो डूब जाएंगे | Pakad Lo Hath Bholenath Nahi To Doob Jaunga",
@@ -1783,27 +1801,81 @@
         "title": "Anuradha Paudwal &amp; Gulshan Kumar Shiv Bhajan Sawan Special shiv bhajan New Sawan Special bhajan 2026",
         "channel": "Sawan Shiv Bhajan",
         "publishedAt": "2026-07-31T22:30:03Z"
-      },
-      {
-        "id": "e39dM9kH4HY",
-        "title": "🔴 LIVE | Non Stop Nirmala Devi Shiv Bhajans | Mahashivratri Sahaja Yoga Song |",
-        "channel": "Nirmalanjali Sahaja Songs",
-        "publishedAt": "2023-02-18T16:17:21Z"
-      },
-      {
-        "id": "mQBkHp-ziRg",
-        "title": "भोले बाबा भजन।।गोपी बन कर आए भोलेनाथ,चुनरिया ओढ़ी सतरंगी।।singer, Naresh pahal।।8053058098",
-        "channel": "NARESH PAHAL BHAJAN",
-        "publishedAt": "2026-06-15T00:30:17Z"
-      },
-      {
-        "id": "_0F_a3BH70E",
-        "title": "Shiv Tandav Stotram | Bhasma Aarti Mahakaleshwar Ujjain Madhya Pradesh #ujjain #mahakaleshwar #song",
-        "channel": "Shree Kalika Design Studio",
-        "publishedAt": "2025-02-02T22:30:06Z"
       }
     ],
     "Krishna": [
+      {
+        "id": "FsHUNJIIRYA",
+        "title": "Mahamantra | Hare Krishna Hare Ram | 1.5 Hour Non-Stop Mahamantra Kirtan | Non Stop Chanting",
+        "channel": "Bhakti Sagar Official",
+        "publishedAt": "2025-12-21T14:30:13Z"
+      },
+      {
+        "id": "TdTxv6Km1D8",
+        "title": "Devi Neha Saraswat Bhajan Bhajo Re Man Govinda | Latest Radha Krishna Bhajan | New Bhajan",
+        "channel": "Pristine Dawn",
+        "publishedAt": "2025-01-08T03:46:22Z"
+      },
+      {
+        "id": "CEtt845Q174",
+        "title": "NIHAARO LAADLI |निहारो लाडली |Nikhil Verma |Kshl |Krishna Bhajan |Latest Bhajan 2026",
+        "channel": "SR_STATUS",
+        "publishedAt": "2026-02-13T09:56:32Z"
+      },
+      {
+        "id": "lG3qemtqKF4",
+        "title": "Superhit Krishna Bhajans কৃষ্ণ ভজন | Hare Krishna Bhajan | Thakur Gaan | কৃষ্ণ গান | Bangla Bhajan",
+        "channel": "Nova Bangla",
+        "publishedAt": "2026-06-18T00:30:06Z"
+      },
+      {
+        "id": "0wSPkugJa3A",
+        "title": "Mere Madhav 3.0 | रूह को रुला देने वाला कृष्ण भजन | Krishna Bhajan 2026 Special | Sufiyat",
+        "channel": "Sufiiyat",
+        "publishedAt": "2026-07-05T01:30:37Z"
+      },
+      {
+        "id": "VM-94r91lRw",
+        "title": "मोहे मोर बनइय्यो राधा | Mohe Mor Banaiyo Radha Apne Vrindavan Ko | Peaceful Radha Krishna Bhajan",
+        "channel": "Bhakti Records",
+        "publishedAt": "2026-03-17T23:30:12Z"
+      },
+      {
+        "id": "BMnhObTkHf8",
+        "title": "Mohe Mor Banaiyo Radha Apne Vrindavan Ko | Radha Krishna Bhajan 2026 | Peaceful Krishna Bhajan",
+        "channel": "Lok Beats Zone",
+        "publishedAt": "2026-05-09T06:53:55Z"
+      },
+      {
+        "id": "8odFSr9PZig",
+        "title": "🌼 Soulful Radha Krishna Morning Bhajans 2025 | Divine Nonstop Krishna Bhakti Songs | Peacful Bhajan",
+        "channel": "Vardaan Bhakti",
+        "publishedAt": "2025-11-22T23:30:03Z"
+      },
+      {
+        "id": "XcKVDdw-bEk",
+        "title": "दुनिया का सबसे मीठा भजन | राधे तेरे चरणों की धूल जो मिल जाए | Radhe Tere Charno Ki | Krishan Bhajan",
+        "channel": "D.S Music",
+        "publishedAt": "2026-02-26T01:30:33Z"
+      },
+      {
+        "id": "7pShTJEH2os",
+        "title": "ZARI KII PAGADI BANDHE | ACHYUTAM KESHAVAM || SIMPAL KHAREL NEW SONG | RADHA KRISHNA BHAJAN 2026 ",
+        "channel": "Simpal Kharel",
+        "publishedAt": "2026-09-03T13:23:16Z"
+      },
+      {
+        "id": "pbsAWHCC6Ho",
+        "title": "मेरी अर्जी बिहारी जी के चरणो में | New Krishna Bhajan 2025 | bihari ji ke bhjana | कृष्ण भजन 2025",
+        "channel": "Kishor Bhajan",
+        "publishedAt": "2025-06-03T01:30:43Z"
+      },
+      {
+        "id": "ZhiXkJjld20",
+        "title": "Radha Krishna Bhajan | Top10 राधा कृष्ण भजन Radha Krishna Song 2026 | Krishna Ji Ke Bhajan | Bhajan",
+        "channel": "Supertone Digital",
+        "publishedAt": "2026-10-20T23:30:06Z"
+      },
       {
         "id": "ubmv1SpLTOY",
         "title": "राधा की तमन्ना🙏🏻#radhakrishna #status #krishnastatus#ytshorts #bhajan #bhakti#song#viral #like #song",
@@ -3531,81 +3603,129 @@
         "title": "ओवाळू आरती मदन गोपाळा | कृष्णाची आरती | Shri Krishna Ovalu Aarti Madan Gopala lyrics | Devotional",
         "channel": "Pebbles live",
         "publishedAt": "2021-09-09T02:30:06Z"
-      },
-      {
-        "id": "PYvY8YCj8l4",
-        "title": "Aarti Kunj Bihari Ki || आरती कुंजबिहारी की || Janmashtami Special Aarti | Krishan Aarti",
-        "channel": "Shree Jee - Bhakti",
-        "publishedAt": "2026-09-21T23:38:37Z"
-      },
-      {
-        "id": "s_ZFeOOvdlg",
-        "title": "राधा की तमन्ना है, कान्हा मुझे मिल जाए ❤️  Radha Krishna Bhajan  Original Krishna Love Song  2026",
-        "channel": "Monika Yadav",
-        "publishedAt": "2026-09-22T03:02:04Z"
-      },
-      {
-        "id": "_2WcOtVJqPE",
-        "title": "Krishna Bhajan~ Hare Krishna Hare Rama Mantra | Hare Krishna Hare Krishna, Krishna Krishna Hare Hare",
-        "channel": "Ds Bhakti Sagar",
-        "publishedAt": "2026-09-21T23:21:36Z"
-      },
-      {
-        "id": "0K-iVjcXxvs",
-        "title": "जरा इतना बता दे कान्हा !! Latest Krishna Bhajan 2023 | Jara Itna Bata De Kanha | Krishna Bhajan 2023",
-        "channel": "Nirmal Tune",
-        "publishedAt": "2022-05-19T00:30:00Z"
-      },
-      {
-        "id": "R5cHNdXGo3I",
-        "title": "Aarti Kunj Bihari Ki || आरती कुंजबिहारी की || Janmashtami Special Aarti | Krishan Aarti",
-        "channel": "Shree Jee - Bhakti",
-        "publishedAt": "2026-09-21T00:41:14Z"
-      },
-      {
-        "id": "_SAnRKOJy_k",
-        "title": "Radha Krishna Bhajan | Radha Ke Piya Tune Ye Kya Kiya | Kiran Maurya Ke Geet | Krishna Bhajan",
-        "channel": "Kiran Maurya ke geet",
-        "publishedAt": "2026-09-21T03:21:31Z"
-      },
-      {
-        "id": "HnlXl_hGPiE",
-        "title": "Tujhse Preet Lagi Hai Radhe / Bhajman Radhe | Krishna Chaturvedi , Pankaj VRK |RadheKrishna Song",
-        "channel": "Pankaj VRK Production",
-        "publishedAt": "2023-09-03T23:30:11Z"
-      },
-      {
-        "id": "EV7wcmooBEc",
-        "title": "राधा की तमन्ना है, कान्हा मुझे मिल जाए ❤️  Radha Krishna Bhajan  Original Krishna Love Song  2026",
-        "channel": "Monika Yadav",
-        "publishedAt": "2026-09-21T00:00:13Z"
-      },
-      {
-        "id": "FIE2b5Q9m1s",
-        "title": "राधा की तमन्ना है, कान्हा मुझे मिल जाए ❤️ | Radha Krishna Bhajan | Original Krishna Love Song | 2026",
-        "channel": "itzsoniyashrma",
-        "publishedAt": "2026-09-21T05:59:18Z"
-      },
-      {
-        "id": "ju3Fivp7Vwc",
-        "title": "Krishna Bhajan~ Hare Krishna Hare Rama Mantra | Hare Krishna Hare Krishna, Krishna Krishna Hare Hare",
-        "channel": "Ds Bhakti Sagar",
-        "publishedAt": "2026-09-20T22:44:04Z"
-      },
-      {
-        "id": "ZWA_w9BWi8k",
-        "title": "🕉️ Jaya Janardhana Krishna Radhika Pathe 🙏 | Beautiful Krishna Bhajan for Kids",
-        "channel": "Little Heaven Tales",
-        "publishedAt": "2026-04-22T17:15:28Z"
-      },
-      {
-        "id": "sZUQmbTDTA8",
-        "title": "राधा की तमन्ना है, कान्हा मुझे मिल जाए ❤️ | Radha Krishna Bhajan | Original Krishna Love Song | 2026",
-        "channel": "Khushi Dev",
-        "publishedAt": "2026-09-20T01:37:11Z"
       }
     ],
     "Ram": [
+      {
+        "id": "thtSVWCuLuw",
+        "title": "Bolo Jay Sriram / Ram Bhajan / Ayodhya Ram Mandir / Jay Sriram / Dalismita / MTC Odia",
+        "channel": "MTC ODIA",
+        "publishedAt": "2024-01-10T15:38:23Z"
+      },
+      {
+        "id": "ro7B6LwGnQE",
+        "title": "दुनिया में पावन अयोध्या धाम | Ram Mandir Song 2024 | Gagan Deep Singh | Ram Bhajan #Sonotek Bhojpuri",
+        "channel": "Sonotek Bhojpuri",
+        "publishedAt": "2020-08-04T10:00:30Z"
+      },
+      {
+        "id": "L5gRNXkUe9A",
+        "title": "( श्री राम भजन ) अयोध्या नाथ से जाकर पवनसुत हाल कह देना",
+        "channel": "ssp official",
+        "publishedAt": "2021-12-19T16:30:53Z"
+      },
+      {
+        "id": "jP53PSIR7Q4",
+        "title": "नॉनस्टॉप राम भजन || New Ram Bhajan 2026 || Non Stop Ram Ji Ke Bhajans 2026 || Ram Ji Songs",
+        "channel": "Swastik Spiritual India",
+        "publishedAt": "2024-06-24T22:51:26Z"
+      },
+      {
+        "id": "pSbx_Sor6dw",
+        "title": "LIVE:राम लला के दर्शन ||अयोध्या से लाइव || राम मंदिर से लाइव_Ram Mandir ShubhDarshan",
+        "channel": "Maheshwari Bhakti",
+        "publishedAt": "2025-06-18T21:52:54Z"
+      },
+      {
+        "id": "X8d6z1qegmY",
+        "title": "चलो अयोध्या धाम | अयोध्या राम मंदिर भजन | Ram ji ka Gana | Ram Song | Chalo Ayodhya Dham",
+        "channel": "Shri Ram Maruti",
+        "publishedAt": "2022-08-01T23:30:04Z"
+      },
+      {
+        "id": "xThGBtk3E_A",
+        "title": "LIVE : राम लला के दर्शन || अयोध्या से लाइव || राम मंदिर से लाइव_Ram Mandir ShubhDarshan",
+        "channel": "Anmol Bhajan",
+        "publishedAt": "2025-08-01T10:52:26Z"
+      },
+      {
+        "id": "TCIUdY1X74A",
+        "title": "Non Stop Shri Ram Bhajans - Ram Aayenge To Angana Sajaungi | Bhakti Song | Ram Songs | Ram Bhajans",
+        "channel": "Sangram Music Hits",
+        "publishedAt": "2024-05-25T00:10:12Z"
+      },
+      {
+        "id": "ZkKStVgGEJY",
+        "title": "राम भजन || नगरी हो अयोध्या सी || Nagri Ho Ayodhya Si || Roshni Pandey || Lotus Bhakti Sagar",
+        "channel": "Lotus Bhakti Sagar",
+        "publishedAt": "2023-08-30T23:45:02Z"
+      },
+      {
+        "id": "L5LPbQkEXrg",
+        "title": "राम भजन | नगरी हो अयोध्या सी || Nagri ho ayodhya si",
+        "channel": "Geet Bahar",
+        "publishedAt": "2023-02-28T00:30:09Z"
+      },
+      {
+        "id": "Eay_FG7hk9A",
+        "title": "RAM LALA - Arijit Singh, Sunny M.R. &amp; MST | Vaibhav | Official Devotional Video",
+        "channel": "RamTarang Ayodhya Official",
+        "publishedAt": "2026-10-19T23:30:23Z"
+      },
+      {
+        "id": "22bLNq6iCjU",
+        "title": "Jai Shree Ram | Hansraj Raghuwanshi | Ayodhya Ram Mandir Song 2024 | Yug Ram Raj Ka",
+        "channel": "Hansraj Raghuwanshi",
+        "publishedAt": "2023-12-16T07:30:12Z"
+      },
+      {
+        "id": "Raql0fNnCLI",
+        "title": "Raghupati Raghav Raja raam#lyrics #bhajanlyrics #bhajan",
+        "channel": "bhajan-kirtan video_lyrics ",
+        "publishedAt": "2025-10-07T12:36:13Z"
+      },
+      {
+        "id": "92rPjJmEaDk",
+        "title": "Raghupati Raghav Raja Ram | Original Lyrics | Ram Bhajan 2026 | Tanvi Senjaliya",
+        "channel": "Tanvi Senjaliya",
+        "publishedAt": "2026-03-23T14:32:30Z"
+      },
+      {
+        "id": "L9A8jpQeGdc",
+        "title": "LIVE: Sringaar Aarti of Prabhu Shri  Ram Lalla from Ram Janmabhoomi, Ayodhya | 21st October 2026",
+        "channel": "Doordarshan National",
+        "publishedAt": "2026-10-21T00:56:46Z"
+      },
+      {
+        "id": "3lRt8gUSPB0",
+        "title": "Shri Ram Stuti with Lyrics..Shri Ram Chandra Kripalu Bhajuman By Nitin Mukesh I Kalyug Aur Ramayan",
+        "channel": "T-Series Bhakti Sagar",
+        "publishedAt": "2014-04-07T07:45:00Z"
+      },
+      {
+        "id": "X2gBPG7foFI",
+        "title": "Ram Aayenge - Popular Ram Bhajan - मेरी झोपड़ी के भाग आज खुल जाएंगे - Ram Aayenge To Angana Sajaungi",
+        "channel": "Supertone Digital",
+        "publishedAt": "2026-10-20T01:30:27Z"
+      },
+      {
+        "id": "5ANBrTRR8Qs",
+        "title": "Non Stop Ram Bhajan | Jukebox | Ram Songs | Ram Dhun | Bhakti Song | Dussehra Special 2026",
+        "channel": "Times Music Spiritual",
+        "publishedAt": "2026-10-20T00:30:27Z"
+      },
+      {
+        "id": "IRjz3kVGM8g",
+        "title": "कानो में गुंजेगा ये मधुर राम भजन ~ Nonstop Ram Bhajan | Ram Bhajan 2026 | New Ram Songs | राम सांग",
+        "channel": "Ram Bhakti Dhaam",
+        "publishedAt": "2026-10-20T22:30:00Z"
+      },
+      {
+        "id": "NFA73m41QBM",
+        "title": "विजय दशमी भजन | Dussehra Song | Special Bhajans | Ram Bhajan 2026 | Non Stop Ram Bhajan 2026",
+        "channel": "Bhakti Sadhna भक्ति साधना",
+        "publishedAt": "2026-10-20T12:00:05Z"
+      },
       {
         "id": "l_nmqAyUN6o",
         "title": "नगरी हो अयोध्या सी | Ram Bhajan | #Devotional Song | #Ayodhya Song | Dussehra Song 2026",
@@ -5285,129 +5405,45 @@
         "title": "Ram Bhakti Bhajan | Best Lord Ram Bhajans Collection | Shree Ram Bhajan Jukebox ~ राम भजन",
         "channel": "Medi Tuner",
         "publishedAt": "2025-07-21T20:05:10Z"
-      },
-      {
-        "id": "wVrz52oz_T8",
-        "title": "नगरी हो अयोध्या सी | Nagri Ho Ayodhya Si | प्रकाश गाँधी | PMC संत संदेश | New Bhajan 2023",
-        "channel": "PMC Sant Sandesh",
-        "publishedAt": "2023-01-23T01:45:02Z"
-      },
-      {
-        "id": "EYL1gHywrSY",
-        "title": "राजा राम का है ये देश | Ram Bhajan 2024 | Ayodhya Ram Mandir Song | Shailesh Dubey | 2024 New Song",
-        "channel": "Shailesh Dubey Official",
-        "publishedAt": "2024-01-13T10:48:50Z"
-      },
-      {
-        "id": "yE25diQifb4",
-        "title": "Ayodhya Nagari Nache - Ayodhya Ram Mandir Pran Pratishtha Song | Namita Agrawal | Special Ram Bhajan",
-        "channel": "Namita Agrawal 2",
-        "publishedAt": "2024-01-22T15:09:39Z"
-      },
-      {
-        "id": "tzl5AgR1tMc",
-        "title": "Ram Siya Ram || Adipurush || SLOWED + RIVIVED ✨🌺।  ।। राम सिया राम ।। 2026 #trending ",
-        "channel": "AKP Bhakti 🪷",
-        "publishedAt": "2025-10-20T12:44:32Z"
-      },
-      {
-        "id": "gWCC130V4wc",
-        "title": "Ram Rameti Rameti Mantra | 1000 Names of Vishnu in One Name | Powerful Ram Naam Chant",
-        "channel": "Tirthraj Vastu",
-        "publishedAt": "2025-04-15T14:59:02Z"
-      },
-      {
-        "id": "YzUQFxfVB1g",
-        "title": "Kaushallya Na Kuvar Ni Aarti |Shri Ram Arti || Gujarati Arti || Praful Dave || Ram Navami Special",
-        "channel": "Jhankar Music Bhakti Sagar",
-        "publishedAt": "2016-05-30T10:38:06Z"
-      },
-      {
-        "id": "MhMhohsjtL8",
-        "title": "Shree ram stuti (श्री राम स्तुति) with lyrics || जय श्री राम ||",
-        "channel": "Divya Yatra",
-        "publishedAt": "2021-04-01T18:20:46Z"
-      },
-      {
-        "id": "QwIL7QgQBak",
-        "title": "LIVE: Sringaar Aarti of Prabhu Shri  Ram Lalla from Ram Janmabhoomi, Ayodhya | 10th August 2026",
-        "channel": "Doordarshan National",
-        "publishedAt": "2026-08-10T00:50:21Z"
-      },
-      {
-        "id": "RWvGLdHxLqA",
-        "title": "Shree Ram Prabhu Ni Arti | Viren Prajapati | Ayodhya Ram Mandir Song 2024 | Kaushalya na Kuvar",
-        "channel": "Viren Prajapati",
-        "publishedAt": "2023-12-24T01:53:32Z"
-      },
-      {
-        "id": "fvMwgK1ikZ4",
-        "title": "राम जी के सुपरहिट भजन,Nonstop Ram Ke Bhajan,Lta Mangeshkar Ke Bhajan,लता मंगेशकर के भजन, राम के भजन",
-        "channel": "PREM PATEL CREATION",
-        "publishedAt": "2023-05-19T00:30:08Z"
-      },
-      {
-        "id": "UFboCGpljYY",
-        "title": "అయోధ్యలో విరభూసెనే  | Rama Songs | Siva Sagar  | Ajay Chennuru | SS STUDIO&#39;S",
-        "channel": "S S Studios",
-        "publishedAt": "2023-07-21T12:00:09Z"
-      },
-      {
-        "id": "UlwKToOImgU",
-        "title": "Ram Mandir Pran Pratishtha से पहले Maithili Thakur Bhajan से झूम उठी पूरी Ayodhya | Maithili Thakur",
-        "channel": "Sahitya Tak",
-        "publishedAt": "2024-01-20T05:41:20Z"
-      },
-      {
-        "id": "ST9nGm5xi8c",
-        "title": "10/08/26 Shree Ramlalla Darshan🌹#ayodhya #ramlala #shreeram #harerama #ramram #shringar #shortvideo",
-        "channel": "Shree Ramlalla",
-        "publishedAt": "2026-08-10T06:29:36Z"
-      },
-      {
-        "id": "hSJuW6Wjqx4",
-        "title": "11/08/26 Shree Ramlalla Darshan🙇🏻🙌🏻#ayodhya #ramlala #shreeram #harerama #ramram #aarti #shortvideo",
-        "channel": "Shree Ramlalla",
-        "publishedAt": "2026-08-11T08:05:21Z"
-      },
-      {
-        "id": "h_WeM0ZkQVw",
-        "title": "Raam Siya Raam || Mangal Bhavan Amangal Hari || Swati Mishra",
-        "channel": "Swati Mishra Bhakti",
-        "publishedAt": "2023-05-09T04:28:36Z"
-      },
-      {
-        "id": "IdLhCGU78j4",
-        "title": "Ram Siya Ram | Sonu Nigam | मंगल भवन अमंगल हारी | Ramayan Chaupai | Shree Ram Bhajan",
-        "channel": "Sandhya Bhakti Sagar",
-        "publishedAt": "2023-11-01T06:57:40Z"
-      },
-      {
-        "id": "yFyP0dMx5cw",
-        "title": "मंगल भवन अमंगल हारी - (Lyrical) | Ram Siya Ram | Ramayan Chaupai | Shree Ram Bhajan",
-        "channel": "Medi Tuner",
-        "publishedAt": "2024-09-21T19:41:56Z"
-      },
-      {
-        "id": "c38wKCoezus",
-        "title": "Full Video: Ram Sita Ram -Adipurush | Prabhas,Kriti |Sachet Parampara, Ramajogayya",
-        "channel": "T-Series Telugu",
-        "publishedAt": "2023-06-26T11:30:14Z"
-      },
-      {
-        "id": "tcULZAaG65g",
-        "title": "Ram Bhajan Kar Mann | Shreya Ghoshal | Live in Concert",
-        "channel": "Shreya Ghoshal Official",
-        "publishedAt": "2025-04-01T10:30:33Z"
-      },
-      {
-        "id": "V6E-MMiseY4",
-        "title": "राम भजन | श्री राम का दिल घबराया है मेरा हनुमान नहीं आया है | Ram Bhajan (Singer - Sheela Kalson)",
-        "channel": "Fine Digital Haryanvi",
-        "publishedAt": "2024-01-04T00:30:09Z"
       }
     ],
     "Hanuman": [
+      {
+        "id": "qI1fKjzo53c",
+        "title": "श्री हनुमान अष्टक | Shree Hanuman Ashtak | Rasraj Ji Maharaj | संकट मोचन नाम तिहारो",
+        "channel": " Rasraj Ji Maharaj",
+        "publishedAt": "2023-06-16T23:30:14Z"
+      },
+      {
+        "id": "7wr-oNj-i2A",
+        "title": "Maine Tere Hi Bharose Hanuman (Official Video) || New Hanuman Bhajan 2026 || Neem Karoli Baba",
+        "channel": "Prem Bhakti Records",
+        "publishedAt": "2026-10-20T23:30:07Z"
+      },
+      {
+        "id": "0duXPhS37SY",
+        "title": "Sunlo Pukar (Official Video) Hansraj Raghuwanshi | Hanuman Janmotsav Special Bhajan 2026",
+        "channel": "Hansraj Raghuwanshi",
+        "publishedAt": "2026-04-01T12:30:07Z"
+      },
+      {
+        "id": "BLlTFapgvOo",
+        "title": "Rasraj Ji Maharaj - Lo-fi Version श्री हनुमान चालीसा { Slowed &amp; Reverb } Shree Hanuman Chalisa",
+        "channel": "Vianet LoFi Bhajans",
+        "publishedAt": "2023-04-05T14:16:37Z"
+      },
+      {
+        "id": "UF_LhUD-ukA",
+        "title": "हनुमान चालीसा सम्पूर्ण |Hanuman Chalisa Lyrics Complete #hanuman #hanumanchalisa #rambhakt #chalisa",
+        "channel": "Bhakt Hanuman",
+        "publishedAt": "2026-07-19T00:30:35Z"
+      },
+      {
+        "id": "xJ3vatsNQDU",
+        "title": "HANUMAN CHALISA SUPER FAST | Hanuman Chalisa | श्री हनुमान चालीसा",
+        "channel": "Bhakti Bhajan Mantra",
+        "publishedAt": "2020-01-06T23:02:22Z"
+      },
       {
         "id": "kOVYMC3Cz5U",
         "title": "Koti Surya Teja Maruti_Karya Siddhi Hanuman",
@@ -7171,45 +7207,123 @@
         "title": "LIVE : श्री हनुमान चालीसा | Hanuman Chalisa | जय हनुमान ज्ञान गुण सागर | Jai Hanuman Gyan Gun Sagar",
         "channel": "Kumkum Bhakti Live",
         "publishedAt": "2026-08-17T22:42:58Z"
-      },
-      {
-        "id": "2AP_6YDhZG0",
-        "title": "Aarti Keeje Hanuman Lala Ki (Aarti) [Full Song] - Shree Hanuman Chalisa- Jai Jai Shri Hanuman",
-        "channel": "T-Series Bhakti Sagar",
-        "publishedAt": "2011-05-05T17:15:03Z"
-      },
-      {
-        "id": "0PX4YuWBaXQ",
-        "title": "संकट मोचन हनुमान अष्टक | Sankat Mochan Hanuman Ashtak | Ajivasan Kids | Hanuman Bhajan",
-        "channel": "Zee Music Devotional",
-        "publishedAt": "2025-03-11T01:30:00Z"
-      },
-      {
-        "id": "5_A6PNoFPmY",
-        "title": "हे दुःख भंजन मारुती नंदन | He Dukh Bhajan Maruti Nandan | Hanuman Vandana | Hanuman Bhajan",
-        "channel": "Bhakti Dhara",
-        "publishedAt": "2017-02-28T02:00:00Z"
-      },
-      {
-        "id": "NYXgtBfuFWQ",
-        "title": "LIVE : श्री हनुमान चालीसा | Hanuman Chalisa | जय हनुमान ज्ञान गुण सागर | Jai Hanuman Gyan Gun Sagar",
-        "channel": "Kumkum Bhakti Live",
-        "publishedAt": "2026-08-16T22:04:00Z"
-      },
-      {
-        "id": "DclU0qyffQU",
-        "title": "श्री हनुमान चालीसा | Shri Hanuman Chalisa | Ankit Batra | Full HD Video Song | Sadhna TV",
-        "channel": "SADHNA GOLD",
-        "publishedAt": "2020-06-22T14:13:34Z"
-      },
-      {
-        "id": "liORXoGgi4E",
-        "title": "Hanuman Chalisa Super Fast Music Video | Hanuman Chalisa | श्री हनुमान चालीसा",
-        "channel": "Brijesh Shandilya",
-        "publishedAt": "2024-09-10T05:20:05Z"
       }
     ],
     "Durga": [
+      {
+        "id": "kQiH4Qk63d4",
+        "title": "Tune Mujhe Bulaya Sherawaliye || Navratri Special Song || Jai Mata Di || #navratri #trending #bhakti",
+        "channel": "NOMADIC DVS",
+        "publishedAt": "2023-03-21T18:45:59Z"
+      },
+      {
+        "id": "9kORpoJVIRM",
+        "title": "ಶ್ರೀ ದುರ್ಗಾ ಚಾಲೀಸಾ | Sri Durga Chalisa | Durga Devi Songs | Devotional | Durga Songs |Chalisa | devi",
+        "channel": "Hrishi Audio Video",
+        "publishedAt": "2024-03-29T00:00:07Z"
+      },
+      {
+        "id": "iNhWIY5lLnk",
+        "title": "Durga Chalisa",
+        "channel": "Religious India - Topic",
+        "publishedAt": "2024-06-29T11:53:15Z"
+      },
+      {
+        "id": "lj26IS9mf1s",
+        "title": "दुर्गा चालीसा | Durga Chalisa | Navratri Special | Home Peace &amp; Shakti | माँ दुर्गा की भक्ति ,शक्ति",
+        "channel": "Adhyatmik Dhwani",
+        "publishedAt": "2026-10-10T23:15:30Z"
+      },
+      {
+        "id": "I5lpEOdELO8",
+        "title": "Durga Chalisa Fast | Durga Chalisa | दुर्गा चालीसा | Sand Art",
+        "channel": "Bhakti Bhajan Mantra",
+        "publishedAt": "2020-03-24T21:54:05Z"
+      },
+      {
+        "id": "Kx7kl9kkerA",
+        "title": "🌺 नवरात्रि में नित्य सुने 🌺DURGA CHALISA | With Lyrics | Durga Bhajan | Durga Mata Bhajan | Navratri",
+        "channel": "Tanu Vashisht {संस्कृत}",
+        "publishedAt": "2025-09-25T09:54:47Z"
+      },
+      {
+        "id": "2_qbW9SnyuY",
+        "title": "Durga Chalisa with Lyrics | दुर्गा चालीसा | Namo Namo Durge Sukh Karni | Durga Bhajan Song",
+        "channel": "Spiritual Mantra",
+        "publishedAt": "2019-04-06T00:30:00Z"
+      },
+      {
+        "id": "Zpphu1h1Jvc",
+        "title": "Shree Ambe Sharanam Mamah I Ambe Maa Dhun I Dipali Somaiya | Ambe Maa Bhajan",
+        "channel": "Soor Mandir",
+        "publishedAt": "2019-04-02T23:00:03Z"
+      },
+      {
+        "id": "9A0GwNw0Zno",
+        "title": "सुपर-फास्ट ॐ जय अम्बे गौरी दुर्गा आरती | Super Fast Jai Ambe Gauri Durga Aarti",
+        "channel": "Glare Music Bhakti",
+        "publishedAt": "2020-12-29T14:33:52Z"
+      },
+      {
+        "id": "r6o7pA30now",
+        "title": "नवरात्रि Special आरतियाँ | Durga Ji Ki Aarti | Jay Ambey Gauri | Mata Ki Aarti | Durga Aarti",
+        "channel": "Narayani Bhakti",
+        "publishedAt": "2025-09-28T01:02:15Z"
+      },
+      {
+        "id": "_amn6jcLUo8",
+        "title": "Jay Adhyashakti Aarti | Ambe Maa Aarti | Navratri Special | Appu | Soor Mandir",
+        "channel": "Soor Mandir",
+        "publishedAt": "2020-10-17T13:00:30Z"
+      },
+      {
+        "id": "QkPQ_JKVNqI",
+        "title": "Kasatandi Fule Asina Asichi &amp; Other Superhit Maa Durga Bhajan by Namita Agrawal",
+        "channel": "Namita Agrawal - Topic",
+        "publishedAt": "2026-09-23T13:11:49Z"
+      },
+      {
+        "id": "gd72arUM3sg",
+        "title": "Aawo Mere Awgana - [ Durga Maa Bhajan ]",
+        "channel": "DEVOTEEOFGOD",
+        "publishedAt": "2011-10-12T04:55:47Z"
+      },
+      {
+        "id": "cJs6MfqHAmo",
+        "title": "नॉनस्टॉप माता रानी के भजन Nonstop Mata Rani Ke Bhajan | Durga Maa Songs | Bhakti Song | Bhajan Songs",
+        "channel": "Bhakti Sadhna भक्ति साधना",
+        "publishedAt": "2026-10-10T00:00:14Z"
+      },
+      {
+        "id": "a43iw6aXuWc",
+        "title": "🔱जय जय दुर्गे भवानी🔱/दुर्गा माताको सुन्नै पर्ने New Nepali Durga bhajan 2083",
+        "channel": "Radhamarga bhajan",
+        "publishedAt": "2026-10-15T10:40:27Z"
+      },
+      {
+        "id": "T4yEhgZBVP4",
+        "title": "मेरी अर्जी करो स्वीकार भवानी जगदम्बे | Meri Arji Karo Swikar | Navratri Special Bhajan 2026 | Palak",
+        "channel": "Safar-E-Bhakti",
+        "publishedAt": "2026-10-01T13:12:20Z"
+      },
+      {
+        "id": "kyzOkQ9UMd4",
+        "title": "नवरात्री स्पेशल भजन : ॐ जय अम्बे गौरी, अम्बे तू है जगदम्बे काली, भोर भई दिन, दुर्गा चालीसा व कथा",
+        "channel": "Maa Janki Bhajan",
+        "publishedAt": "2026-10-11T13:15:33Z"
+      },
+      {
+        "id": "SB-YT0wmCo0",
+        "title": "Hamari Maiya Humse Na Bole | Emotional Mata Bhajan | Latest Devi Geet 2026",
+        "channel": "suno_bhakti_sagar",
+        "publishedAt": "2026-06-25T00:18:02Z"
+      },
+      {
+        "id": "9X-PCAWPh5E",
+        "title": "Durge Deu Bhakti Malai - Bhaktaraj Acharya | Nepali Durga Bhajan",
+        "channel": "MN Bhajan",
+        "publishedAt": "2023-10-18T23:15:00Z"
+      },
       {
         "id": "piUlL1QMACI",
         "title": "Durga visharjan #bhakti #trending #viral #durgapuja  #navratri #navratrispecial #jaimatadi #bhajan",
@@ -8895,123 +9009,45 @@
         "title": "🔴LIVE : प्रतिदिन  सुबह शाम - श्री दुर्गा चालीसा का ११ बार पाठ करने से सारे कष्ट दुःख दूर होते हैं |",
         "channel": "Tarang Bhakti Dham",
         "publishedAt": "2026-08-19T22:28:02Z"
-      },
-      {
-        "id": "0rjuR_iiUMg",
-        "title": "Durga Kavach | श्री दुर्गा रक्षा कवच | Durga Maa Songs | Mata Ke Gane | Durga Kavach In Hindi",
-        "channel": "Nova Spiritual India",
-        "publishedAt": "2020-10-24T02:00:28Z"
-      },
-      {
-        "id": "sACa2dcOsCg",
-        "title": "LIVE🔴आज के दिन सुबह-शाम - श्री दुर्गा चालीसा का ११ बार पाठ करने से सारे कष्ट दुःख दूर होंगे",
-        "channel": "Shivamrit Bhajan ",
-        "publishedAt": "2026-08-14T19:31:44Z"
-      },
-      {
-        "id": "O-mpHMzjE0Q",
-        "title": "2026 सम्पूर्ण आरती संग्रह - ॐ जय अम्बे गौरी | अम्बे तू है जगदम्बे काली | भोर भई दिन चढ़ गया अम्बे",
-        "channel": "Narayani Bhajan Sangrah",
-        "publishedAt": "2025-12-20T23:44:54Z"
-      },
-      {
-        "id": "AwSvoDOd_So",
-        "title": "#न्यू देवी गीत 🌺 #जाग ए माई Durga Mata Bhajan 2026 | Bhojpuri devi geet | Durga puja navratri song",
-        "channel": "Durga Tone ",
-        "publishedAt": "2026-08-18T23:21:45Z"
-      },
-      {
-        "id": "9_V3g_gCWJA",
-        "title": " Jai Maa 🙏 ਜੈ ਮਾਂ | Satta Mandhali | New Punjabi Bhajan 2026",
-        "channel": "Baba Balak Nath Ji Bhajan By Satta Mandhali",
-        "publishedAt": "2026-08-14T00:30:27Z"
-      },
-      {
-        "id": "bQpoDpAvnYE",
-        "title": "Shree Durga Chalisa (श्री दुर्गा चालीसा) - Hari Om Sharan | भक्ति गीत | NAVRATRI 2018",
-        "channel": "Sony Music India",
-        "publishedAt": "2018-10-03T11:13:38Z"
-      },
-      {
-        "id": "mtvX3ax4RS8",
-        "title": "Haar Gaya Iss Jag Se Ambe Ma | हार गया इस जग से अंबे माँ | Navratri Bhajan 2026 | Meera Audio Record",
-        "channel": "Meera Audio Records",
-        "publishedAt": "2026-03-19T12:31:13Z"
-      },
-      {
-        "id": "KFVYgY_QEwU",
-        "title": "हे जगतारिणि शोकनिवारिणि-मां दुर्गा भजन |He Jagatarini Shokanivarini-Matarani Bhajan Maa Durga Bhajan",
-        "channel": "Amrita Chaturvedi",
-        "publishedAt": "2026-03-19T12:42:44Z"
-      },
-      {
-        "id": "suBdS3VfQWo",
-        "title": "🔴LIVE : प्रतिदिन  सुबह शाम - श्री दुर्गा चालीसा का ११ बार पाठ करने से सारे कष्ट दुःख दूर होते हैं |",
-        "channel": "Tarang Bhakti Dham",
-        "publishedAt": "2026-03-15T23:43:23Z"
-      },
-      {
-        "id": "CXKyt-1fWxY",
-        "title": "🔴LIVE : प्रतिदिन  सुबह शाम - श्री दुर्गा चालीसा का ११ बार पाठ करने से सारे कष्ट दुःख दूर होते हैं |",
-        "channel": "Tarang Bhakti Dham",
-        "publishedAt": "2026-08-12T11:09:54Z"
-      },
-      {
-        "id": "f_EbLdsQvt0",
-        "title": "🔴LIVE : प्रतिदिन  सुबह शाम - श्री दुर्गा चालीसा का ११ बार पाठ करने से सारे कष्ट दुःख दूर होते हैं |",
-        "channel": "Tarang Bhakti Dham",
-        "publishedAt": "2026-08-13T22:13:04Z"
-      },
-      {
-        "id": "gFD46BhorTk",
-        "title": "आरती अम्बे तू है जगदम्बे काली | Aarti Ambe Tu Hai Jagdambe Kali With Lyrics | ANURADHA PAUDWAL",
-        "channel": "T-Series Bhakti Sagar",
-        "publishedAt": "2026-03-20T00:30:00Z"
-      },
-      {
-        "id": "V7ADN6-U_lw",
-        "title": "Ya Devi Sarvbhuteshu | GODDESS DURGA STUTI | mantra for POSITIVE ENERGY, PROSPERITY &amp; SUCCESS",
-        "channel": "Meditative Bharat",
-        "publishedAt": "2023-12-29T00:30:10Z"
-      },
-      {
-        "id": "n2deq9412yU",
-        "title": "TERA ZIKAR DATIYE (OFFICIAL VIDEO ) | FEROZ KHAN | JAI MATA DI | NEW PUNJABI DEVOTIONAL SONG 2024",
-        "channel": "Feroz Khan",
-        "publishedAt": "2024-10-03T01:30:24Z"
-      },
-      {
-        "id": "qDynqp6A8ws",
-        "title": "Jai maa vaishno devi all bhakti song | bhakti song | Navratri special song",
-        "channel": "RMusic",
-        "publishedAt": "2023-05-25T22:30:06Z"
-      },
-      {
-        "id": "LAmwGRX2n8c",
-        "title": "🔴LIVE : प्रतिदिन  सुबह शाम - श्री दुर्गा चालीसा का ११ बार पाठ करने से सारे कष्ट दुःख दूर होते हैं |",
-        "channel": "Tarang Bhakti Dham",
-        "publishedAt": "2026-08-01T22:02:19Z"
-      },
-      {
-        "id": "RY1jmTTjvhI",
-        "title": "Jai Ambe Gauri Aarti By Anuradha Paudwal [Full Song] I Navdurga Stuti",
-        "channel": "T-Series Bhakti Sagar",
-        "publishedAt": "2012-03-23T12:53:08Z"
-      },
-      {
-        "id": "-R5cTcDGy6I",
-        "title": "LIVE : ॐ जय लक्ष्मी माता | Laxmi Mata Aarti | Om Jai Laxmi Mata | Lakshmi Mata Ki Aarti |",
-        "channel": "Prarthana Bhakti",
-        "publishedAt": "2026-08-13T22:49:45Z"
-      },
-      {
-        "id": "VHy1JxRhIac",
-        "title": "Sare Bolo Jai Mata Di",
-        "channel": "Release - Topic",
-        "publishedAt": "2023-07-13T05:37:01Z"
       }
     ],
     "Ganesh": [
+      {
+        "id": "Voay3d2ePVc",
+        "title": "Aarti Of Lalbaugcha Raja | लालबागच्या राजाची आरती, Credit @timesmusicspiritual",
+        "channel": "Lalbaugcha Raja",
+        "publishedAt": "2024-09-14T14:11:25Z"
+      },
+      {
+        "id": "aboEOpQnZG8",
+        "title": "2026 नॉनस्टॉप गणेश जी भजन~New Ganpati ji Bhajan 2026 ~Ganesh Bhajan~New Bhajan 2026 ~ChalisaTop 10",
+        "channel": "Shree Bhakti Sagar",
+        "publishedAt": "2026-10-20T22:45:25Z"
+      },
+      {
+        "id": "RgBDA2tK0jA",
+        "title": "बुधवार स्पेशल | श्री गणेश अमृतवाणी कथा | गणेश भक्ति भजन | Ganesh Bhajan| Bhakti Song,Ganesh Song",
+        "channel": "Chanda Pop Songs",
+        "publishedAt": "2026-10-20T22:30:13Z"
+      },
+      {
+        "id": "cbpHt_6gycA",
+        "title": "बुधवार स्पेशल भजन : नॉनस्टॉप गणेश भजन | Nonstop Ganesh Bhajan | Ganpati Songs | Ganesh Bhajan 2026",
+        "channel": "Aaj Ke Bhajan",
+        "publishedAt": "2026-10-20T22:15:11Z"
+      },
+      {
+        "id": "4D04MoZjdhE",
+        "title": "गणेश जी की आरती Ganesh Ji Ki Aarti - जय गणेश जय गणेश देवा Jai Ganesh Jai Ganesh Deva | Ganpati Aart",
+        "channel": "Bhakti Sadhna भक्ति साधना",
+        "publishedAt": "2026-10-21T01:00:35Z"
+      },
+      {
+        "id": "nSEs9lnQOsI",
+        "title": "बुधवार स्पेशल | गणेश जी के भजन 2026 | Ganesh Bhajan 2026 | Ganesh Ji Ke Bhajan | Ganesh Songs",
+        "channel": "Bhakti Sadhna भक्ति साधना",
+        "publishedAt": "2026-10-20T23:00:15Z"
+      },
       {
         "id": "c6xlGYcppyU",
         "title": "बुधवार स्पेशल | गणेश जी के भजन 2026 | Ganesh Bhajan 2026 | Ganesh Ji Ke Bhajan | Ganesh Songs",
@@ -10775,42 +10811,6 @@
         "title": "बुधवार भक्ति : Nonstop Ganesh Bhajan नॉनस्टॉप गणेश जी के भजन | Ganesh Ji Ke Bhajan | Ganesh Songs",
         "channel": "Bhakti ",
         "publishedAt": "2023-05-03T11:30:16Z"
-      },
-      {
-        "id": "wC4GJBek8nM",
-        "title": "Ganpati Bappa Jaideva | Raj Pareek | Ganesh Chaturthi Special 2026 | गणपति बप्पा जयदेवा",
-        "channel": "Raj Pareek",
-        "publishedAt": "2026-09-12T02:30:17Z"
-      },
-      {
-        "id": "Hb8Q02ElcYI",
-        "title": "टॉप 10 गणेश जी के भजन | घर में पधारो गजानन जी | Non Stop Ganesh Bhajans | Ganesh Songs #GaneshBhajan",
-        "channel": "Smart Digital",
-        "publishedAt": "2023-09-25T23:30:03Z"
-      },
-      {
-        "id": "ToDayJMdAVQ",
-        "title": "संपूर्ण गणपती आरती संग्रह Ganpati Aarti Sangrah | Sukhkarta Dukhharta Full Aarti | Ganpati Songs",
-        "channel": "Nova Marathi Bhakti",
-        "publishedAt": "2023-09-17T01:37:10Z"
-      },
-      {
-        "id": "YwsrubQIZnw",
-        "title": "Ganesh Aarti from movie VAASTAV I Hindi English Lyrics, Full LYRICAL VIDEO I SHENDOOR LAAL CHADHAAYO",
-        "channel": "T-Series Bhakti Sagar",
-        "publishedAt": "2016-09-03T01:30:01Z"
-      },
-      {
-        "id": "x-B_f2Swlyk",
-        "title": "Sukhakarta Dukhaharta(Ganesh Aarti) by Shankar Mahadevan",
-        "channel": "Shankar Mahadevan Spiritual Songs",
-        "publishedAt": "2014-08-01T05:21:23Z"
-      },
-      {
-        "id": "_Ijtz6aCMvY",
-        "title": "गणेश जी की आरती - सुपर फास्ट रिकार्ड | Superfast Ganesh Aarti | Superfast Jai Ganesh Deva Aarti |",
-        "channel": "Glare Music Bhakti",
-        "publishedAt": "2022-10-25T01:00:18Z"
       }
     ]
   }
